@@ -9,5 +9,7 @@ int main()
 		add (t,i);
 	}
 	print(t);
+	delete_array(t);
+
 	return 0;
 }
